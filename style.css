@@ -22,7 +22,6 @@ body {
   place-items: center;
 
   overflow-x: hidden;
-  overflow: overlay;
 }
 
 .recipe-container {
